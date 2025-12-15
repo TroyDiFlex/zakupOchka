@@ -11,4 +11,4 @@
 
 
 
-<img width="1919" height="877" alt="2025-12-15_22-13" src="https://github.com/user-attachments/assets/667a31e5-ef7a-40ba-9fbf-a32fb9af56ca" />
+<img width=50% alt="2025-12-15_22-13" src="https://github.com/user-attachments/assets/667a31e5-ef7a-40ba-9fbf-a32fb9af56ca" />
