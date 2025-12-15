@@ -7,7 +7,7 @@
 
 
 
-<img width="1920" height="866" alt="2025-12-15_22-12" src="https://github.com/user-attachments/assets/7cc1aca5-3dc7-474a-920f-cc448b214a7d" />
+<img width=50% alt="2025-12-15_22-12" src="https://github.com/user-attachments/assets/7cc1aca5-3dc7-474a-920f-cc448b214a7d" />
 
 
 
