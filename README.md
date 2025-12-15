@@ -1,4 +1,4 @@
-<h1 align="center">zakupOchka</h1>
+<h1 align="center">ЗакупОчка</h1>
 
 <p align="center">
   Скрипт-виджет Tampermonkey для поиска игр в Steam по проценту скидки и/или цене в заданном диапазоне.
